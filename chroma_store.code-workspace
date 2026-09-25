@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "chroma_store",
+			"path": "../Continuation/Rag evaluation/chroma_store"
+		},
+		{
+			"name": "Rag-Deployment",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
